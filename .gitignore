@@ -1,2 +1,3 @@
 data/train-balanced-sarcasm.csv
 data/processed_sarcasm-dataset.csv
+notebooks/.ipynb_checkpoints
