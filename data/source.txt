@@ -1,1 +1,1 @@
-https://www.kaggle.com/datasets/danofer/sarcasm
+https://www.kaggle.com/datasets/danofer/sarcasm?select=train-balanced-sarcasm.csv
